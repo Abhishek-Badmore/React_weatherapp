@@ -14,14 +14,15 @@ npm install
 
 ### Run 
 
->Server
+```
+#Backend
 node index.js
 
->Frontend
+#Frontend
 open with live server
 or simply copy path of HTML file and run it into a Browser
 
-
+```
 
 
 
