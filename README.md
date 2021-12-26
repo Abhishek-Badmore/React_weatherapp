@@ -6,7 +6,7 @@
 
 ## Features
 
-- Realtime weater, Date and time 
+- Realtime weather, Date and time 
 
 ### Install Dependencies
 
